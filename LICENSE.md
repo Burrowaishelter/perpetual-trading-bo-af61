@@ -1,4 +1,4 @@
-# 
+# updated perpetual trading bot | liquidity-provision + futures-arbitrage offers the most advanced perpetual trading bot, with liquidity-provision and futures-arbitrage. Ideal for
 
 
 
